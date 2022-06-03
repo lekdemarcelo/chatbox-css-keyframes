@@ -39,3 +39,11 @@ body {
     border-top: 17px solid #949494;
 }
 
+.chatbot__loading {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: #949494;
+    transform: scale(1);
+}
+
